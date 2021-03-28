@@ -48,3 +48,4 @@ experience:
         * Structuring data in R with the Tidyverse environment.
         * Analyze and prepare data from various sources e.g. Politics, Financial, Personal data.
         * Create interactive HTML reports with R for reporting statistical analysis.
+---
