@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Data Scientist
     company: Banco General
-    company_url: 'https://www.bgeneral.com/'
+    company_url: https://www.bgeneral.com/
     location: Panama City, Panama
     date_start: '2021-01-04'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
         
   - title: Data Science Intern
     company: STAT-UP
-    company_url: 'https://stat-up.com/en/'
+    company_url: https://stat-up.com/en/
     location: Munich
     date_start: '2020-02-01'
     date_end: '2020-04-31'
